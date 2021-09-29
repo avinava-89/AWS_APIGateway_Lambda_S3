@@ -1,0 +1,13 @@
+.terraform*
+*.tfstate
+
+#IntelliJ
+.idea/
+*.iml
+
+#Testinfra
+.pytest_cache
+__pycache__
+
+*.jar
+*.zip
